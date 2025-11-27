@@ -54,6 +54,7 @@ int main()
     }
 
     figure->ShowArea();
+    figure->ShowLength();
 
     return 0;
 }
